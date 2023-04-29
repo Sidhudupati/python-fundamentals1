@@ -4,6 +4,7 @@ name="Sidhu's store"
 print(name)
 #name='Sidhu's store'
 print(name)
+
 a='sidhu'
 b='dupati'
 c=a+b   #concatenate
